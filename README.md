@@ -1,3 +1,5 @@
+# NOTICE: this github repository has been archived. the newest updates can be downloaded from [my website](https://acheney.xyz/sunvox/modules) or from [my gitea repo](https://git.acheney.xyz/acheney/sunvox-modules)
+
 # abstract
 here are all the sunvox modules i've made. they are sorted based on sunvox's own module library. this commit also contains documentation and notes for each module
 
